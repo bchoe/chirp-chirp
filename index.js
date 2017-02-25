@@ -1,5 +1,9 @@
+//recursion
+
 let chirpFunc = function(num){
+
   if(num === 1){
+    //base case
     return 'chirp';
   }
 
